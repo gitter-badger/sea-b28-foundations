@@ -1,4 +1,5 @@
 # Foundations of Computer Science and Web Development Bootcamp
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/codefellows/sea-b28-foundations?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 _A [Code Fellows](http://codefellows.com) Bootcamp_
 
 Key Details |  |
